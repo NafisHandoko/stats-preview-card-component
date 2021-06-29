@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Code](https://github.com/NafisHandoko/stats-preview-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Github Pages](https://nafishandoko.github.io/stats-preview-card-component/)
 
 
 ## My process
